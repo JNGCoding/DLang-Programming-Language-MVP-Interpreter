@@ -1,0 +1,2311 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineSystem.cmake:212 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The system is: Windows - 10.0.26200 - AMD64
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeNinjaFindMake.cmake:5 (find_program)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_MAKE_PROGRAM"
+    description: "Program used to build from build.ninja files."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "ninja-build"
+      - "ninja"
+      - "samu"
+    candidate_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/Go/bin/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/"
+      - "C:/Users/homec/scoop/shims/"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/homec/go/bin/"
+      - "C:/Users/homec/AppData/Roaming/npm/"
+      - "C:/NASM/"
+      - "C:/Program Files/pioasm/"
+      - "C:/Program Files/Robot Testing Utility/"
+    searched_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/ninja-build.com"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/ninja-build.exe"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/ninja-build"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/ninja.com"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/ninja.exe"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/ninja"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/samu.com"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/samu.exe"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/samu"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/ninja-build.com"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/ninja-build.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/ninja-build"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/ninja.com"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/ninja.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/ninja"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/samu.com"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/samu.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/samu"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/ninja-build.com"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/ninja-build.exe"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/ninja-build"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/ninja.com"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/ninja.exe"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/ninja"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/samu.com"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/samu.exe"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/samu"
+      - "C:/Windows/System32/ninja-build.com"
+      - "C:/Windows/System32/ninja-build.exe"
+      - "C:/Windows/System32/ninja-build"
+      - "C:/Windows/System32/ninja.com"
+      - "C:/Windows/System32/ninja.exe"
+      - "C:/Windows/System32/ninja"
+      - "C:/Windows/System32/samu.com"
+      - "C:/Windows/System32/samu.exe"
+      - "C:/Windows/System32/samu"
+      - "C:/Windows/ninja-build.com"
+      - "C:/Windows/ninja-build.exe"
+      - "C:/Windows/ninja-build"
+      - "C:/Windows/ninja.com"
+      - "C:/Windows/ninja.exe"
+      - "C:/Windows/ninja"
+      - "C:/Windows/samu.com"
+      - "C:/Windows/samu.exe"
+      - "C:/Windows/samu"
+      - "C:/Windows/System32/wbem/ninja-build.com"
+      - "C:/Windows/System32/wbem/ninja-build.exe"
+      - "C:/Windows/System32/wbem/ninja-build"
+      - "C:/Windows/System32/wbem/ninja.com"
+      - "C:/Windows/System32/wbem/ninja.exe"
+      - "C:/Windows/System32/wbem/ninja"
+      - "C:/Windows/System32/wbem/samu.com"
+      - "C:/Windows/System32/wbem/samu.exe"
+      - "C:/Windows/System32/wbem/samu"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/ninja-build.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/ninja-build.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/ninja-build"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/ninja.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/ninja.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/ninja"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/samu.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/samu.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/samu"
+      - "C:/Windows/System32/OpenSSH/ninja-build.com"
+      - "C:/Windows/System32/OpenSSH/ninja-build.exe"
+      - "C:/Windows/System32/OpenSSH/ninja-build"
+      - "C:/Windows/System32/OpenSSH/ninja.com"
+      - "C:/Windows/System32/OpenSSH/ninja.exe"
+      - "C:/Windows/System32/OpenSSH/ninja"
+      - "C:/Windows/System32/OpenSSH/samu.com"
+      - "C:/Windows/System32/OpenSSH/samu.exe"
+      - "C:/Windows/System32/OpenSSH/samu"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/ninja-build.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/ninja-build.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/ninja-build"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/ninja.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/ninja.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/ninja"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/samu.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/samu.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/samu"
+      - "C:/MinGW/bin/ninja-build.com"
+      - "C:/MinGW/bin/ninja-build.exe"
+      - "C:/MinGW/bin/ninja-build"
+      - "C:/MinGW/bin/ninja.com"
+      - "C:/MinGW/bin/ninja.exe"
+      - "C:/MinGW/bin/ninja"
+      - "C:/MinGW/bin/samu.com"
+      - "C:/MinGW/bin/samu.exe"
+      - "C:/MinGW/bin/samu"
+      - "C:/Program Files/Go/bin/ninja-build.com"
+      - "C:/Program Files/Go/bin/ninja-build.exe"
+      - "C:/Program Files/Go/bin/ninja-build"
+      - "C:/Program Files/Go/bin/ninja.com"
+      - "C:/Program Files/Go/bin/ninja.exe"
+      - "C:/Program Files/Go/bin/ninja"
+      - "C:/Program Files/Go/bin/samu.com"
+      - "C:/Program Files/Go/bin/samu.exe"
+      - "C:/Program Files/Go/bin/samu"
+      - "C:/Program Files/PuTTY/ninja-build.com"
+      - "C:/Program Files/PuTTY/ninja-build.exe"
+      - "C:/Program Files/PuTTY/ninja-build"
+      - "C:/Program Files/PuTTY/ninja.com"
+      - "C:/Program Files/PuTTY/ninja.exe"
+      - "C:/Program Files/PuTTY/ninja"
+      - "C:/Program Files/PuTTY/samu.com"
+      - "C:/Program Files/PuTTY/samu.exe"
+      - "C:/Program Files/PuTTY/samu"
+      - "C:/ProgramData/chocolatey/bin/ninja-build.com"
+      - "C:/ProgramData/chocolatey/bin/ninja-build.exe"
+      - "C:/ProgramData/chocolatey/bin/ninja-build"
+      - "C:/ProgramData/chocolatey/bin/ninja.com"
+      - "C:/ProgramData/chocolatey/bin/ninja.exe"
+      - "C:/ProgramData/chocolatey/bin/ninja"
+      - "C:/ProgramData/chocolatey/bin/samu.com"
+      - "C:/ProgramData/chocolatey/bin/samu.exe"
+      - "C:/ProgramData/chocolatey/bin/samu"
+      - "C:/Program Files/nodejs/ninja-build.com"
+      - "C:/Program Files/nodejs/ninja-build.exe"
+      - "C:/Program Files/nodejs/ninja-build"
+      - "C:/Program Files/nodejs/ninja.com"
+      - "C:/Program Files/nodejs/ninja.exe"
+      - "C:/Program Files/nodejs/ninja"
+      - "C:/Program Files/nodejs/samu.com"
+      - "C:/Program Files/nodejs/samu.exe"
+      - "C:/Program Files/nodejs/samu"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/ninja-build.com"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/ninja-build.exe"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/ninja-build"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/ninja.com"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/ninja.exe"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/ninja"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/samu.com"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/samu.exe"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/samu"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/ninja-build.com"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/ninja-build.exe"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/ninja-build"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/ninja.com"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/ninja.exe"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/ninja"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/samu.com"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/samu.exe"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/samu"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/ninja-build.com"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/ninja-build.exe"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/ninja-build"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/ninja.com"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/ninja.exe"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/ninja"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/samu.com"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/samu.exe"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/samu"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/ninja-build.com"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/ninja-build.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/ninja-build"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/ninja.com"
+    found: "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/ninja.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\MinGW\\bin"
+        - "C:\\Program Files\\Go\\bin"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\"
+        - "C:\\Users\\homec\\scoop\\apps\\maven\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:\\Users\\homec\\scoop\\shims"
+        - "C:\\Users\\homec\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\homec\\go\\bin"
+        - "C:\\Users\\homec\\AppData\\Roaming\\npm"
+        - "C:\\NASM"
+        - "C:\\Program Files\\pioasm"
+        - "C:\\Program Files\\Robot Testing Utility"
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:462 (find_file)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "file"
+    variable: "src_in"
+    description: "Path to a file."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "CMakeCXXCompilerId.cpp.in"
+    candidate_directories:
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/"
+    found: "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeCXXCompilerId.cpp.in"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\MinGW\\bin"
+        - "C:\\Program Files\\Go\\bin"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\"
+        - "C:\\Users\\homec\\scoop\\apps\\maven\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:\\Users\\homec\\scoop\\shims"
+        - "C:\\Users\\homec\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\homec\\go\\bin"
+        - "C:\\Users\\homec\\AppData\\Roaming\\npm"
+        - "C:\\NASM"
+        - "C:\\Program Files\\pioasm"
+        - "C:\\Program Files\\Robot Testing Utility"
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\"
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: C:/Users/homec/scoop/apps/gcc/current/bin/g++.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+      
+      The CXX compiler identification is GNU, found in:
+        C:/Coding Projects/CPP_Language_Implementation/build/CMakeFiles/4.1.0/CompilerIdCXX/a.exe
+      
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:238 (find_program)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_AR"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "ar"
+    candidate_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/Go/bin/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/"
+      - "C:/Users/homec/scoop/shims/"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/homec/go/bin/"
+      - "C:/Users/homec/AppData/Roaming/npm/"
+      - "C:/NASM/"
+      - "C:/Program Files/pioasm/"
+      - "C:/Program Files/Robot Testing Utility/"
+    searched_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/ar.com"
+    found: "C:/Users/homec/scoop/apps/gcc/current/bin/ar.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\MinGW\\bin"
+        - "C:\\Program Files\\Go\\bin"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\"
+        - "C:\\Users\\homec\\scoop\\apps\\maven\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:\\Users\\homec\\scoop\\shims"
+        - "C:\\Users\\homec\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\homec\\go\\bin"
+        - "C:\\Users\\homec\\AppData\\Roaming\\npm"
+        - "C:\\NASM"
+        - "C:\\Program Files\\pioasm"
+        - "C:\\Program Files\\Robot Testing Utility"
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:238 (find_program)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_RANLIB"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "ranlib"
+    candidate_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/Go/bin/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/"
+      - "C:/Users/homec/scoop/shims/"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/homec/go/bin/"
+      - "C:/Users/homec/AppData/Roaming/npm/"
+      - "C:/NASM/"
+      - "C:/Program Files/pioasm/"
+      - "C:/Program Files/Robot Testing Utility/"
+    searched_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/ranlib.com"
+    found: "C:/Users/homec/scoop/apps/gcc/current/bin/ranlib.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\MinGW\\bin"
+        - "C:\\Program Files\\Go\\bin"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\"
+        - "C:\\Users\\homec\\scoop\\apps\\maven\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:\\Users\\homec\\scoop\\shims"
+        - "C:\\Users\\homec\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\homec\\go\\bin"
+        - "C:\\Users\\homec\\AppData\\Roaming\\npm"
+        - "C:\\NASM"
+        - "C:\\Program Files\\pioasm"
+        - "C:\\Program Files\\Robot Testing Utility"
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:238 (find_program)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_STRIP"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "strip"
+    candidate_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/Go/bin/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/"
+      - "C:/Users/homec/scoop/shims/"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/homec/go/bin/"
+      - "C:/Users/homec/AppData/Roaming/npm/"
+      - "C:/NASM/"
+      - "C:/Program Files/pioasm/"
+      - "C:/Program Files/Robot Testing Utility/"
+    searched_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/strip.com"
+    found: "C:/Users/homec/scoop/apps/gcc/current/bin/strip.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\MinGW\\bin"
+        - "C:\\Program Files\\Go\\bin"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\"
+        - "C:\\Users\\homec\\scoop\\apps\\maven\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:\\Users\\homec\\scoop\\shims"
+        - "C:\\Users\\homec\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\homec\\go\\bin"
+        - "C:\\Users\\homec\\AppData\\Roaming\\npm"
+        - "C:\\NASM"
+        - "C:\\Program Files\\pioasm"
+        - "C:\\Program Files\\Robot Testing Utility"
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:238 (find_program)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_LINKER"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "ld"
+    candidate_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/Go/bin/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/"
+      - "C:/Users/homec/scoop/shims/"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/homec/go/bin/"
+      - "C:/Users/homec/AppData/Roaming/npm/"
+      - "C:/NASM/"
+      - "C:/Program Files/pioasm/"
+      - "C:/Program Files/Robot Testing Utility/"
+    searched_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/ld.com"
+    found: "C:/Users/homec/scoop/apps/gcc/current/bin/ld.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\MinGW\\bin"
+        - "C:\\Program Files\\Go\\bin"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\"
+        - "C:\\Users\\homec\\scoop\\apps\\maven\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:\\Users\\homec\\scoop\\shims"
+        - "C:\\Users\\homec\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\homec\\go\\bin"
+        - "C:\\Users\\homec\\AppData\\Roaming\\npm"
+        - "C:\\NASM"
+        - "C:\\Program Files\\pioasm"
+        - "C:\\Program Files\\Robot Testing Utility"
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:238 (find_program)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_NM"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "nm"
+    candidate_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/Go/bin/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/"
+      - "C:/Users/homec/scoop/shims/"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/homec/go/bin/"
+      - "C:/Users/homec/AppData/Roaming/npm/"
+      - "C:/NASM/"
+      - "C:/Program Files/pioasm/"
+      - "C:/Program Files/Robot Testing Utility/"
+    searched_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/nm.com"
+    found: "C:/Users/homec/scoop/apps/gcc/current/bin/nm.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\MinGW\\bin"
+        - "C:\\Program Files\\Go\\bin"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\"
+        - "C:\\Users\\homec\\scoop\\apps\\maven\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:\\Users\\homec\\scoop\\shims"
+        - "C:\\Users\\homec\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\homec\\go\\bin"
+        - "C:\\Users\\homec\\AppData\\Roaming\\npm"
+        - "C:\\NASM"
+        - "C:\\Program Files\\pioasm"
+        - "C:\\Program Files\\Robot Testing Utility"
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:238 (find_program)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_OBJDUMP"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "objdump"
+    candidate_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/Go/bin/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/"
+      - "C:/Users/homec/scoop/shims/"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/homec/go/bin/"
+      - "C:/Users/homec/AppData/Roaming/npm/"
+      - "C:/NASM/"
+      - "C:/Program Files/pioasm/"
+      - "C:/Program Files/Robot Testing Utility/"
+    searched_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/objdump.com"
+    found: "C:/Users/homec/scoop/apps/gcc/current/bin/objdump.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\MinGW\\bin"
+        - "C:\\Program Files\\Go\\bin"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\"
+        - "C:\\Users\\homec\\scoop\\apps\\maven\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:\\Users\\homec\\scoop\\shims"
+        - "C:\\Users\\homec\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\homec\\go\\bin"
+        - "C:\\Users\\homec\\AppData\\Roaming\\npm"
+        - "C:\\NASM"
+        - "C:\\Program Files\\pioasm"
+        - "C:\\Program Files\\Robot Testing Utility"
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:238 (find_program)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_OBJCOPY"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "objcopy"
+    candidate_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/Go/bin/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/"
+      - "C:/Users/homec/scoop/shims/"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/homec/go/bin/"
+      - "C:/Users/homec/AppData/Roaming/npm/"
+      - "C:/NASM/"
+      - "C:/Program Files/pioasm/"
+      - "C:/Program Files/Robot Testing Utility/"
+    searched_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/objcopy.com"
+    found: "C:/Users/homec/scoop/apps/gcc/current/bin/objcopy.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\MinGW\\bin"
+        - "C:\\Program Files\\Go\\bin"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\"
+        - "C:\\Users\\homec\\scoop\\apps\\maven\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:\\Users\\homec\\scoop\\shims"
+        - "C:\\Users\\homec\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\homec\\go\\bin"
+        - "C:\\Users\\homec\\AppData\\Roaming\\npm"
+        - "C:\\NASM"
+        - "C:\\Program Files\\pioasm"
+        - "C:\\Program Files\\Robot Testing Utility"
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:238 (find_program)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_READELF"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "readelf"
+    candidate_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/Go/bin/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/"
+      - "C:/Users/homec/scoop/shims/"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/homec/go/bin/"
+      - "C:/Users/homec/AppData/Roaming/npm/"
+      - "C:/NASM/"
+      - "C:/Program Files/pioasm/"
+      - "C:/Program Files/Robot Testing Utility/"
+    searched_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/readelf.com"
+    found: "C:/Users/homec/scoop/apps/gcc/current/bin/readelf.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\MinGW\\bin"
+        - "C:\\Program Files\\Go\\bin"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\"
+        - "C:\\Users\\homec\\scoop\\apps\\maven\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:\\Users\\homec\\scoop\\shims"
+        - "C:\\Users\\homec\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\homec\\go\\bin"
+        - "C:\\Users\\homec\\AppData\\Roaming\\npm"
+        - "C:\\NASM"
+        - "C:\\Program Files\\pioasm"
+        - "C:\\Program Files\\Robot Testing Utility"
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:238 (find_program)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_DLLTOOL"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "dlltool"
+    candidate_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/Go/bin/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/"
+      - "C:/Users/homec/scoop/shims/"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/homec/go/bin/"
+      - "C:/Users/homec/AppData/Roaming/npm/"
+      - "C:/NASM/"
+      - "C:/Program Files/pioasm/"
+      - "C:/Program Files/Robot Testing Utility/"
+    searched_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/dlltool.com"
+    found: "C:/Users/homec/scoop/apps/gcc/current/bin/dlltool.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\MinGW\\bin"
+        - "C:\\Program Files\\Go\\bin"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\"
+        - "C:\\Users\\homec\\scoop\\apps\\maven\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:\\Users\\homec\\scoop\\shims"
+        - "C:\\Users\\homec\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\homec\\go\\bin"
+        - "C:\\Users\\homec\\AppData\\Roaming\\npm"
+        - "C:\\NASM"
+        - "C:\\Program Files\\pioasm"
+        - "C:\\Program Files\\Robot Testing Utility"
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:238 (find_program)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_ADDR2LINE"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "addr2line"
+    candidate_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/Go/bin/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/"
+      - "C:/Users/homec/scoop/shims/"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/homec/go/bin/"
+      - "C:/Users/homec/AppData/Roaming/npm/"
+      - "C:/NASM/"
+      - "C:/Program Files/pioasm/"
+      - "C:/Program Files/Robot Testing Utility/"
+    searched_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/addr2line.com"
+    found: "C:/Users/homec/scoop/apps/gcc/current/bin/addr2line.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\MinGW\\bin"
+        - "C:\\Program Files\\Go\\bin"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\"
+        - "C:\\Users\\homec\\scoop\\apps\\maven\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:\\Users\\homec\\scoop\\shims"
+        - "C:\\Users\\homec\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\homec\\go\\bin"
+        - "C:\\Users\\homec\\AppData\\Roaming\\npm"
+        - "C:\\NASM"
+        - "C:\\Program Files\\pioasm"
+        - "C:\\Program Files\\Robot Testing Utility"
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:238 (find_program)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_TAPI"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "tapi"
+    candidate_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/Go/bin/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/"
+      - "C:/Users/homec/scoop/shims/"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/homec/go/bin/"
+      - "C:/Users/homec/AppData/Roaming/npm/"
+      - "C:/NASM/"
+      - "C:/Program Files/pioasm/"
+      - "C:/Program Files/Robot Testing Utility/"
+    searched_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/tapi.com"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/tapi.exe"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/tapi"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/tapi.com"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/tapi.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/tapi"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/tapi.com"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/tapi.exe"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/tapi"
+      - "C:/Windows/System32/tapi.com"
+      - "C:/Windows/System32/tapi.exe"
+      - "C:/Windows/System32/tapi"
+      - "C:/Windows/tapi.com"
+      - "C:/Windows/tapi.exe"
+      - "C:/Windows/tapi"
+      - "C:/Windows/System32/wbem/tapi.com"
+      - "C:/Windows/System32/wbem/tapi.exe"
+      - "C:/Windows/System32/wbem/tapi"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/tapi.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/tapi.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/tapi"
+      - "C:/Windows/System32/OpenSSH/tapi.com"
+      - "C:/Windows/System32/OpenSSH/tapi.exe"
+      - "C:/Windows/System32/OpenSSH/tapi"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/tapi.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/tapi.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/tapi"
+      - "C:/MinGW/bin/tapi.com"
+      - "C:/MinGW/bin/tapi.exe"
+      - "C:/MinGW/bin/tapi"
+      - "C:/Program Files/Go/bin/tapi.com"
+      - "C:/Program Files/Go/bin/tapi.exe"
+      - "C:/Program Files/Go/bin/tapi"
+      - "C:/Program Files/PuTTY/tapi.com"
+      - "C:/Program Files/PuTTY/tapi.exe"
+      - "C:/Program Files/PuTTY/tapi"
+      - "C:/ProgramData/chocolatey/bin/tapi.com"
+      - "C:/ProgramData/chocolatey/bin/tapi.exe"
+      - "C:/ProgramData/chocolatey/bin/tapi"
+      - "C:/Program Files/nodejs/tapi.com"
+      - "C:/Program Files/nodejs/tapi.exe"
+      - "C:/Program Files/nodejs/tapi"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/tapi.com"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/tapi.exe"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/tapi"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/tapi.com"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/tapi.exe"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/tapi"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/tapi.com"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/tapi.exe"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/tapi"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/tapi.com"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/tapi.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/tapi"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/tapi.com"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/tapi.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/tapi"
+      - "C:/Users/homec/scoop/shims/tapi.com"
+      - "C:/Users/homec/scoop/shims/tapi.exe"
+      - "C:/Users/homec/scoop/shims/tapi"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/tapi.com"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/tapi.exe"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/tapi"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/tapi.com"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/tapi.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/tapi"
+      - "C:/Users/homec/go/bin/tapi.com"
+      - "C:/Users/homec/go/bin/tapi.exe"
+      - "C:/Users/homec/go/bin/tapi"
+      - "C:/Users/homec/AppData/Roaming/npm/tapi.com"
+      - "C:/Users/homec/AppData/Roaming/npm/tapi.exe"
+      - "C:/Users/homec/AppData/Roaming/npm/tapi"
+      - "C:/NASM/tapi.com"
+      - "C:/NASM/tapi.exe"
+      - "C:/NASM/tapi"
+      - "C:/Program Files/pioasm/tapi.com"
+      - "C:/Program Files/pioasm/tapi.exe"
+      - "C:/Program Files/pioasm/tapi"
+      - "C:/Program Files/Robot Testing Utility/tapi.com"
+      - "C:/Program Files/Robot Testing Utility/tapi.exe"
+      - "C:/Program Files/Robot Testing Utility/tapi"
+    found: false
+    search_context:
+      ENV{PATH}:
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\MinGW\\bin"
+        - "C:\\Program Files\\Go\\bin"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\"
+        - "C:\\Users\\homec\\scoop\\apps\\maven\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:\\Users\\homec\\scoop\\shims"
+        - "C:\\Users\\homec\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\homec\\go\\bin"
+        - "C:\\Users\\homec\\AppData\\Roaming\\npm"
+        - "C:\\NASM"
+        - "C:\\Program Files\\pioasm"
+        - "C:\\Program Files\\Robot Testing Utility"
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/Compiler/GNU-FindBinUtils.cmake:18 (find_program)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:207 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_CXX_COMPILER_AR"
+    description: "A wrapper around 'ar' adding the appropriate '--plugin' option for the GCC compiler"
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "gcc-ar-15.2"
+      - "gcc-ar-15"
+      - "gcc-ar15"
+      - "gcc-ar"
+    candidate_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/Go/bin/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/"
+      - "C:/Users/homec/scoop/shims/"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/homec/go/bin/"
+      - "C:/Users/homec/AppData/Roaming/npm/"
+      - "C:/NASM/"
+      - "C:/Program Files/pioasm/"
+      - "C:/Program Files/Robot Testing Utility/"
+    searched_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/gcc-ar-15.2.com"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/gcc-ar-15.2.exe"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/gcc-ar-15.2"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/gcc-ar-15.2.com"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/gcc-ar-15.2.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/gcc-ar-15.2"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/gcc-ar-15.2.com"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/gcc-ar-15.2.exe"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/gcc-ar-15.2"
+      - "C:/Windows/System32/gcc-ar-15.2.com"
+      - "C:/Windows/System32/gcc-ar-15.2.exe"
+      - "C:/Windows/System32/gcc-ar-15.2"
+      - "C:/Windows/gcc-ar-15.2.com"
+      - "C:/Windows/gcc-ar-15.2.exe"
+      - "C:/Windows/gcc-ar-15.2"
+      - "C:/Windows/System32/wbem/gcc-ar-15.2.com"
+      - "C:/Windows/System32/wbem/gcc-ar-15.2.exe"
+      - "C:/Windows/System32/wbem/gcc-ar-15.2"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ar-15.2.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ar-15.2.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ar-15.2"
+      - "C:/Windows/System32/OpenSSH/gcc-ar-15.2.com"
+      - "C:/Windows/System32/OpenSSH/gcc-ar-15.2.exe"
+      - "C:/Windows/System32/OpenSSH/gcc-ar-15.2"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar-15.2.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar-15.2.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar-15.2"
+      - "C:/MinGW/bin/gcc-ar-15.2.com"
+      - "C:/MinGW/bin/gcc-ar-15.2.exe"
+      - "C:/MinGW/bin/gcc-ar-15.2"
+      - "C:/Program Files/Go/bin/gcc-ar-15.2.com"
+      - "C:/Program Files/Go/bin/gcc-ar-15.2.exe"
+      - "C:/Program Files/Go/bin/gcc-ar-15.2"
+      - "C:/Program Files/PuTTY/gcc-ar-15.2.com"
+      - "C:/Program Files/PuTTY/gcc-ar-15.2.exe"
+      - "C:/Program Files/PuTTY/gcc-ar-15.2"
+      - "C:/ProgramData/chocolatey/bin/gcc-ar-15.2.com"
+      - "C:/ProgramData/chocolatey/bin/gcc-ar-15.2.exe"
+      - "C:/ProgramData/chocolatey/bin/gcc-ar-15.2"
+      - "C:/Program Files/nodejs/gcc-ar-15.2.com"
+      - "C:/Program Files/nodejs/gcc-ar-15.2.exe"
+      - "C:/Program Files/nodejs/gcc-ar-15.2"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/gcc-ar-15.2.com"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/gcc-ar-15.2.exe"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/gcc-ar-15.2"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/gcc-ar-15.2.com"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/gcc-ar-15.2.exe"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/gcc-ar-15.2"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/gcc-ar-15.2.com"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/gcc-ar-15.2.exe"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/gcc-ar-15.2"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/gcc-ar-15.2.com"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/gcc-ar-15.2.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/gcc-ar-15.2"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/gcc-ar-15.2.com"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/gcc-ar-15.2.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/gcc-ar-15.2"
+      - "C:/Users/homec/scoop/shims/gcc-ar-15.2.com"
+      - "C:/Users/homec/scoop/shims/gcc-ar-15.2.exe"
+      - "C:/Users/homec/scoop/shims/gcc-ar-15.2"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/gcc-ar-15.2.com"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/gcc-ar-15.2.exe"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/gcc-ar-15.2"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-15.2.com"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-15.2.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-15.2"
+      - "C:/Users/homec/go/bin/gcc-ar-15.2.com"
+      - "C:/Users/homec/go/bin/gcc-ar-15.2.exe"
+      - "C:/Users/homec/go/bin/gcc-ar-15.2"
+      - "C:/Users/homec/AppData/Roaming/npm/gcc-ar-15.2.com"
+      - "C:/Users/homec/AppData/Roaming/npm/gcc-ar-15.2.exe"
+      - "C:/Users/homec/AppData/Roaming/npm/gcc-ar-15.2"
+      - "C:/NASM/gcc-ar-15.2.com"
+      - "C:/NASM/gcc-ar-15.2.exe"
+      - "C:/NASM/gcc-ar-15.2"
+      - "C:/Program Files/pioasm/gcc-ar-15.2.com"
+      - "C:/Program Files/pioasm/gcc-ar-15.2.exe"
+      - "C:/Program Files/pioasm/gcc-ar-15.2"
+      - "C:/Program Files/Robot Testing Utility/gcc-ar-15.2.com"
+      - "C:/Program Files/Robot Testing Utility/gcc-ar-15.2.exe"
+      - "C:/Program Files/Robot Testing Utility/gcc-ar-15.2"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/gcc-ar-15.com"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/gcc-ar-15.exe"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/gcc-ar-15"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/gcc-ar-15.com"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/gcc-ar-15.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/gcc-ar-15"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/gcc-ar-15.com"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/gcc-ar-15.exe"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/gcc-ar-15"
+      - "C:/Windows/System32/gcc-ar-15.com"
+      - "C:/Windows/System32/gcc-ar-15.exe"
+      - "C:/Windows/System32/gcc-ar-15"
+      - "C:/Windows/gcc-ar-15.com"
+      - "C:/Windows/gcc-ar-15.exe"
+      - "C:/Windows/gcc-ar-15"
+      - "C:/Windows/System32/wbem/gcc-ar-15.com"
+      - "C:/Windows/System32/wbem/gcc-ar-15.exe"
+      - "C:/Windows/System32/wbem/gcc-ar-15"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ar-15.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ar-15.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ar-15"
+      - "C:/Windows/System32/OpenSSH/gcc-ar-15.com"
+      - "C:/Windows/System32/OpenSSH/gcc-ar-15.exe"
+      - "C:/Windows/System32/OpenSSH/gcc-ar-15"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar-15.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar-15.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar-15"
+      - "C:/MinGW/bin/gcc-ar-15.com"
+      - "C:/MinGW/bin/gcc-ar-15.exe"
+      - "C:/MinGW/bin/gcc-ar-15"
+      - "C:/Program Files/Go/bin/gcc-ar-15.com"
+      - "C:/Program Files/Go/bin/gcc-ar-15.exe"
+      - "C:/Program Files/Go/bin/gcc-ar-15"
+      - "C:/Program Files/PuTTY/gcc-ar-15.com"
+      - "C:/Program Files/PuTTY/gcc-ar-15.exe"
+      - "C:/Program Files/PuTTY/gcc-ar-15"
+      - "C:/ProgramData/chocolatey/bin/gcc-ar-15.com"
+      - "C:/ProgramData/chocolatey/bin/gcc-ar-15.exe"
+      - "C:/ProgramData/chocolatey/bin/gcc-ar-15"
+      - "C:/Program Files/nodejs/gcc-ar-15.com"
+      - "C:/Program Files/nodejs/gcc-ar-15.exe"
+      - "C:/Program Files/nodejs/gcc-ar-15"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/gcc-ar-15.com"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/gcc-ar-15.exe"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/gcc-ar-15"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/gcc-ar-15.com"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/gcc-ar-15.exe"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/gcc-ar-15"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/gcc-ar-15.com"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/gcc-ar-15.exe"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/gcc-ar-15"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/gcc-ar-15.com"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/gcc-ar-15.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/gcc-ar-15"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/gcc-ar-15.com"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/gcc-ar-15.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/gcc-ar-15"
+      - "C:/Users/homec/scoop/shims/gcc-ar-15.com"
+      - "C:/Users/homec/scoop/shims/gcc-ar-15.exe"
+      - "C:/Users/homec/scoop/shims/gcc-ar-15"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/gcc-ar-15.com"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/gcc-ar-15.exe"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/gcc-ar-15"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-15.com"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-15.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-15"
+      - "C:/Users/homec/go/bin/gcc-ar-15.com"
+      - "C:/Users/homec/go/bin/gcc-ar-15.exe"
+      - "C:/Users/homec/go/bin/gcc-ar-15"
+      - "C:/Users/homec/AppData/Roaming/npm/gcc-ar-15.com"
+      - "C:/Users/homec/AppData/Roaming/npm/gcc-ar-15.exe"
+      - "C:/Users/homec/AppData/Roaming/npm/gcc-ar-15"
+      - "C:/NASM/gcc-ar-15.com"
+      - "C:/NASM/gcc-ar-15.exe"
+      - "C:/NASM/gcc-ar-15"
+      - "C:/Program Files/pioasm/gcc-ar-15.com"
+      - "C:/Program Files/pioasm/gcc-ar-15.exe"
+      - "C:/Program Files/pioasm/gcc-ar-15"
+      - "C:/Program Files/Robot Testing Utility/gcc-ar-15.com"
+      - "C:/Program Files/Robot Testing Utility/gcc-ar-15.exe"
+      - "C:/Program Files/Robot Testing Utility/gcc-ar-15"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/gcc-ar15.com"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/gcc-ar15.exe"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/gcc-ar15"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/gcc-ar15.com"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/gcc-ar15.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/gcc-ar15"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/gcc-ar15.com"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/gcc-ar15.exe"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/gcc-ar15"
+      - "C:/Windows/System32/gcc-ar15.com"
+      - "C:/Windows/System32/gcc-ar15.exe"
+      - "C:/Windows/System32/gcc-ar15"
+      - "C:/Windows/gcc-ar15.com"
+      - "C:/Windows/gcc-ar15.exe"
+      - "C:/Windows/gcc-ar15"
+      - "C:/Windows/System32/wbem/gcc-ar15.com"
+      - "C:/Windows/System32/wbem/gcc-ar15.exe"
+      - "C:/Windows/System32/wbem/gcc-ar15"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ar15.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ar15.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ar15"
+      - "C:/Windows/System32/OpenSSH/gcc-ar15.com"
+      - "C:/Windows/System32/OpenSSH/gcc-ar15.exe"
+      - "C:/Windows/System32/OpenSSH/gcc-ar15"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar15.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar15.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar15"
+      - "C:/MinGW/bin/gcc-ar15.com"
+      - "C:/MinGW/bin/gcc-ar15.exe"
+      - "C:/MinGW/bin/gcc-ar15"
+      - "C:/Program Files/Go/bin/gcc-ar15.com"
+      - "C:/Program Files/Go/bin/gcc-ar15.exe"
+      - "C:/Program Files/Go/bin/gcc-ar15"
+      - "C:/Program Files/PuTTY/gcc-ar15.com"
+      - "C:/Program Files/PuTTY/gcc-ar15.exe"
+      - "C:/Program Files/PuTTY/gcc-ar15"
+      - "C:/ProgramData/chocolatey/bin/gcc-ar15.com"
+      - "C:/ProgramData/chocolatey/bin/gcc-ar15.exe"
+      - "C:/ProgramData/chocolatey/bin/gcc-ar15"
+      - "C:/Program Files/nodejs/gcc-ar15.com"
+      - "C:/Program Files/nodejs/gcc-ar15.exe"
+      - "C:/Program Files/nodejs/gcc-ar15"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/gcc-ar15.com"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/gcc-ar15.exe"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/gcc-ar15"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/gcc-ar15.com"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/gcc-ar15.exe"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/gcc-ar15"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/gcc-ar15.com"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/gcc-ar15.exe"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/gcc-ar15"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/gcc-ar15.com"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/gcc-ar15.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/gcc-ar15"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/gcc-ar15.com"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/gcc-ar15.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/gcc-ar15"
+      - "C:/Users/homec/scoop/shims/gcc-ar15.com"
+      - "C:/Users/homec/scoop/shims/gcc-ar15.exe"
+      - "C:/Users/homec/scoop/shims/gcc-ar15"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/gcc-ar15.com"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/gcc-ar15.exe"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/gcc-ar15"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar15.com"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar15.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar15"
+      - "C:/Users/homec/go/bin/gcc-ar15.com"
+      - "C:/Users/homec/go/bin/gcc-ar15.exe"
+      - "C:/Users/homec/go/bin/gcc-ar15"
+      - "C:/Users/homec/AppData/Roaming/npm/gcc-ar15.com"
+      - "C:/Users/homec/AppData/Roaming/npm/gcc-ar15.exe"
+      - "C:/Users/homec/AppData/Roaming/npm/gcc-ar15"
+      - "C:/NASM/gcc-ar15.com"
+      - "C:/NASM/gcc-ar15.exe"
+      - "C:/NASM/gcc-ar15"
+      - "C:/Program Files/pioasm/gcc-ar15.com"
+      - "C:/Program Files/pioasm/gcc-ar15.exe"
+      - "C:/Program Files/pioasm/gcc-ar15"
+      - "C:/Program Files/Robot Testing Utility/gcc-ar15.com"
+      - "C:/Program Files/Robot Testing Utility/gcc-ar15.exe"
+      - "C:/Program Files/Robot Testing Utility/gcc-ar15"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/gcc-ar.com"
+    found: "C:/Users/homec/scoop/apps/gcc/current/bin/gcc-ar.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\MinGW\\bin"
+        - "C:\\Program Files\\Go\\bin"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\"
+        - "C:\\Users\\homec\\scoop\\apps\\maven\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:\\Users\\homec\\scoop\\shims"
+        - "C:\\Users\\homec\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\homec\\go\\bin"
+        - "C:\\Users\\homec\\AppData\\Roaming\\npm"
+        - "C:\\NASM"
+        - "C:\\Program Files\\pioasm"
+        - "C:\\Program Files\\Robot Testing Utility"
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/Compiler/GNU-FindBinUtils.cmake:30 (find_program)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:207 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_CXX_COMPILER_RANLIB"
+    description: "A wrapper around 'ranlib' adding the appropriate '--plugin' option for the GCC compiler"
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "gcc-ranlib-15.2"
+      - "gcc-ranlib-15"
+      - "gcc-ranlib15"
+      - "gcc-ranlib"
+    candidate_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/Go/bin/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/"
+      - "C:/Users/homec/scoop/shims/"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/homec/go/bin/"
+      - "C:/Users/homec/AppData/Roaming/npm/"
+      - "C:/NASM/"
+      - "C:/Program Files/pioasm/"
+      - "C:/Program Files/Robot Testing Utility/"
+    searched_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/gcc-ranlib-15.2.com"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/gcc-ranlib-15.2.exe"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/gcc-ranlib-15.2"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/gcc-ranlib-15.2.com"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/gcc-ranlib-15.2.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/gcc-ranlib-15.2"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/gcc-ranlib-15.2.com"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/gcc-ranlib-15.2.exe"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/gcc-ranlib-15.2"
+      - "C:/Windows/System32/gcc-ranlib-15.2.com"
+      - "C:/Windows/System32/gcc-ranlib-15.2.exe"
+      - "C:/Windows/System32/gcc-ranlib-15.2"
+      - "C:/Windows/gcc-ranlib-15.2.com"
+      - "C:/Windows/gcc-ranlib-15.2.exe"
+      - "C:/Windows/gcc-ranlib-15.2"
+      - "C:/Windows/System32/wbem/gcc-ranlib-15.2.com"
+      - "C:/Windows/System32/wbem/gcc-ranlib-15.2.exe"
+      - "C:/Windows/System32/wbem/gcc-ranlib-15.2"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ranlib-15.2.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ranlib-15.2.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ranlib-15.2"
+      - "C:/Windows/System32/OpenSSH/gcc-ranlib-15.2.com"
+      - "C:/Windows/System32/OpenSSH/gcc-ranlib-15.2.exe"
+      - "C:/Windows/System32/OpenSSH/gcc-ranlib-15.2"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib-15.2.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib-15.2.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib-15.2"
+      - "C:/MinGW/bin/gcc-ranlib-15.2.com"
+      - "C:/MinGW/bin/gcc-ranlib-15.2.exe"
+      - "C:/MinGW/bin/gcc-ranlib-15.2"
+      - "C:/Program Files/Go/bin/gcc-ranlib-15.2.com"
+      - "C:/Program Files/Go/bin/gcc-ranlib-15.2.exe"
+      - "C:/Program Files/Go/bin/gcc-ranlib-15.2"
+      - "C:/Program Files/PuTTY/gcc-ranlib-15.2.com"
+      - "C:/Program Files/PuTTY/gcc-ranlib-15.2.exe"
+      - "C:/Program Files/PuTTY/gcc-ranlib-15.2"
+      - "C:/ProgramData/chocolatey/bin/gcc-ranlib-15.2.com"
+      - "C:/ProgramData/chocolatey/bin/gcc-ranlib-15.2.exe"
+      - "C:/ProgramData/chocolatey/bin/gcc-ranlib-15.2"
+      - "C:/Program Files/nodejs/gcc-ranlib-15.2.com"
+      - "C:/Program Files/nodejs/gcc-ranlib-15.2.exe"
+      - "C:/Program Files/nodejs/gcc-ranlib-15.2"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/gcc-ranlib-15.2.com"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/gcc-ranlib-15.2.exe"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/gcc-ranlib-15.2"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/gcc-ranlib-15.2.com"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/gcc-ranlib-15.2.exe"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/gcc-ranlib-15.2"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/gcc-ranlib-15.2.com"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/gcc-ranlib-15.2.exe"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/gcc-ranlib-15.2"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/gcc-ranlib-15.2.com"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/gcc-ranlib-15.2.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/gcc-ranlib-15.2"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/gcc-ranlib-15.2.com"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/gcc-ranlib-15.2.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/gcc-ranlib-15.2"
+      - "C:/Users/homec/scoop/shims/gcc-ranlib-15.2.com"
+      - "C:/Users/homec/scoop/shims/gcc-ranlib-15.2.exe"
+      - "C:/Users/homec/scoop/shims/gcc-ranlib-15.2"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-15.2.com"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-15.2.exe"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-15.2"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-15.2.com"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-15.2.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-15.2"
+      - "C:/Users/homec/go/bin/gcc-ranlib-15.2.com"
+      - "C:/Users/homec/go/bin/gcc-ranlib-15.2.exe"
+      - "C:/Users/homec/go/bin/gcc-ranlib-15.2"
+      - "C:/Users/homec/AppData/Roaming/npm/gcc-ranlib-15.2.com"
+      - "C:/Users/homec/AppData/Roaming/npm/gcc-ranlib-15.2.exe"
+      - "C:/Users/homec/AppData/Roaming/npm/gcc-ranlib-15.2"
+      - "C:/NASM/gcc-ranlib-15.2.com"
+      - "C:/NASM/gcc-ranlib-15.2.exe"
+      - "C:/NASM/gcc-ranlib-15.2"
+      - "C:/Program Files/pioasm/gcc-ranlib-15.2.com"
+      - "C:/Program Files/pioasm/gcc-ranlib-15.2.exe"
+      - "C:/Program Files/pioasm/gcc-ranlib-15.2"
+      - "C:/Program Files/Robot Testing Utility/gcc-ranlib-15.2.com"
+      - "C:/Program Files/Robot Testing Utility/gcc-ranlib-15.2.exe"
+      - "C:/Program Files/Robot Testing Utility/gcc-ranlib-15.2"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/gcc-ranlib-15.com"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/gcc-ranlib-15.exe"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/gcc-ranlib-15"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/gcc-ranlib-15.com"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/gcc-ranlib-15.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/gcc-ranlib-15"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/gcc-ranlib-15.com"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/gcc-ranlib-15.exe"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/gcc-ranlib-15"
+      - "C:/Windows/System32/gcc-ranlib-15.com"
+      - "C:/Windows/System32/gcc-ranlib-15.exe"
+      - "C:/Windows/System32/gcc-ranlib-15"
+      - "C:/Windows/gcc-ranlib-15.com"
+      - "C:/Windows/gcc-ranlib-15.exe"
+      - "C:/Windows/gcc-ranlib-15"
+      - "C:/Windows/System32/wbem/gcc-ranlib-15.com"
+      - "C:/Windows/System32/wbem/gcc-ranlib-15.exe"
+      - "C:/Windows/System32/wbem/gcc-ranlib-15"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ranlib-15.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ranlib-15.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ranlib-15"
+      - "C:/Windows/System32/OpenSSH/gcc-ranlib-15.com"
+      - "C:/Windows/System32/OpenSSH/gcc-ranlib-15.exe"
+      - "C:/Windows/System32/OpenSSH/gcc-ranlib-15"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib-15.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib-15.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib-15"
+      - "C:/MinGW/bin/gcc-ranlib-15.com"
+      - "C:/MinGW/bin/gcc-ranlib-15.exe"
+      - "C:/MinGW/bin/gcc-ranlib-15"
+      - "C:/Program Files/Go/bin/gcc-ranlib-15.com"
+      - "C:/Program Files/Go/bin/gcc-ranlib-15.exe"
+      - "C:/Program Files/Go/bin/gcc-ranlib-15"
+      - "C:/Program Files/PuTTY/gcc-ranlib-15.com"
+      - "C:/Program Files/PuTTY/gcc-ranlib-15.exe"
+      - "C:/Program Files/PuTTY/gcc-ranlib-15"
+      - "C:/ProgramData/chocolatey/bin/gcc-ranlib-15.com"
+      - "C:/ProgramData/chocolatey/bin/gcc-ranlib-15.exe"
+      - "C:/ProgramData/chocolatey/bin/gcc-ranlib-15"
+      - "C:/Program Files/nodejs/gcc-ranlib-15.com"
+      - "C:/Program Files/nodejs/gcc-ranlib-15.exe"
+      - "C:/Program Files/nodejs/gcc-ranlib-15"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/gcc-ranlib-15.com"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/gcc-ranlib-15.exe"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/gcc-ranlib-15"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/gcc-ranlib-15.com"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/gcc-ranlib-15.exe"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/gcc-ranlib-15"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/gcc-ranlib-15.com"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/gcc-ranlib-15.exe"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/gcc-ranlib-15"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/gcc-ranlib-15.com"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/gcc-ranlib-15.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/gcc-ranlib-15"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/gcc-ranlib-15.com"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/gcc-ranlib-15.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/gcc-ranlib-15"
+      - "C:/Users/homec/scoop/shims/gcc-ranlib-15.com"
+      - "C:/Users/homec/scoop/shims/gcc-ranlib-15.exe"
+      - "C:/Users/homec/scoop/shims/gcc-ranlib-15"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-15.com"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-15.exe"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-15"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-15.com"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-15.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-15"
+      - "C:/Users/homec/go/bin/gcc-ranlib-15.com"
+      - "C:/Users/homec/go/bin/gcc-ranlib-15.exe"
+      - "C:/Users/homec/go/bin/gcc-ranlib-15"
+      - "C:/Users/homec/AppData/Roaming/npm/gcc-ranlib-15.com"
+      - "C:/Users/homec/AppData/Roaming/npm/gcc-ranlib-15.exe"
+      - "C:/Users/homec/AppData/Roaming/npm/gcc-ranlib-15"
+      - "C:/NASM/gcc-ranlib-15.com"
+      - "C:/NASM/gcc-ranlib-15.exe"
+      - "C:/NASM/gcc-ranlib-15"
+      - "C:/Program Files/pioasm/gcc-ranlib-15.com"
+      - "C:/Program Files/pioasm/gcc-ranlib-15.exe"
+      - "C:/Program Files/pioasm/gcc-ranlib-15"
+      - "C:/Program Files/Robot Testing Utility/gcc-ranlib-15.com"
+      - "C:/Program Files/Robot Testing Utility/gcc-ranlib-15.exe"
+      - "C:/Program Files/Robot Testing Utility/gcc-ranlib-15"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/gcc-ranlib15.com"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/gcc-ranlib15.exe"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/gcc-ranlib15"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/gcc-ranlib15.com"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/gcc-ranlib15.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/gcc-ranlib15"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/gcc-ranlib15.com"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/gcc-ranlib15.exe"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/gcc-ranlib15"
+      - "C:/Windows/System32/gcc-ranlib15.com"
+      - "C:/Windows/System32/gcc-ranlib15.exe"
+      - "C:/Windows/System32/gcc-ranlib15"
+      - "C:/Windows/gcc-ranlib15.com"
+      - "C:/Windows/gcc-ranlib15.exe"
+      - "C:/Windows/gcc-ranlib15"
+      - "C:/Windows/System32/wbem/gcc-ranlib15.com"
+      - "C:/Windows/System32/wbem/gcc-ranlib15.exe"
+      - "C:/Windows/System32/wbem/gcc-ranlib15"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ranlib15.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ranlib15.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ranlib15"
+      - "C:/Windows/System32/OpenSSH/gcc-ranlib15.com"
+      - "C:/Windows/System32/OpenSSH/gcc-ranlib15.exe"
+      - "C:/Windows/System32/OpenSSH/gcc-ranlib15"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib15.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib15.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib15"
+      - "C:/MinGW/bin/gcc-ranlib15.com"
+      - "C:/MinGW/bin/gcc-ranlib15.exe"
+      - "C:/MinGW/bin/gcc-ranlib15"
+      - "C:/Program Files/Go/bin/gcc-ranlib15.com"
+      - "C:/Program Files/Go/bin/gcc-ranlib15.exe"
+      - "C:/Program Files/Go/bin/gcc-ranlib15"
+      - "C:/Program Files/PuTTY/gcc-ranlib15.com"
+      - "C:/Program Files/PuTTY/gcc-ranlib15.exe"
+      - "C:/Program Files/PuTTY/gcc-ranlib15"
+      - "C:/ProgramData/chocolatey/bin/gcc-ranlib15.com"
+      - "C:/ProgramData/chocolatey/bin/gcc-ranlib15.exe"
+      - "C:/ProgramData/chocolatey/bin/gcc-ranlib15"
+      - "C:/Program Files/nodejs/gcc-ranlib15.com"
+      - "C:/Program Files/nodejs/gcc-ranlib15.exe"
+      - "C:/Program Files/nodejs/gcc-ranlib15"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/gcc-ranlib15.com"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/gcc-ranlib15.exe"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/gcc-ranlib15"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/gcc-ranlib15.com"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/gcc-ranlib15.exe"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/gcc-ranlib15"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/gcc-ranlib15.com"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/gcc-ranlib15.exe"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/gcc-ranlib15"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/gcc-ranlib15.com"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/gcc-ranlib15.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/gcc-ranlib15"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/gcc-ranlib15.com"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/gcc-ranlib15.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/gcc-ranlib15"
+      - "C:/Users/homec/scoop/shims/gcc-ranlib15.com"
+      - "C:/Users/homec/scoop/shims/gcc-ranlib15.exe"
+      - "C:/Users/homec/scoop/shims/gcc-ranlib15"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/gcc-ranlib15.com"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/gcc-ranlib15.exe"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/gcc-ranlib15"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib15.com"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib15.exe"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib15"
+      - "C:/Users/homec/go/bin/gcc-ranlib15.com"
+      - "C:/Users/homec/go/bin/gcc-ranlib15.exe"
+      - "C:/Users/homec/go/bin/gcc-ranlib15"
+      - "C:/Users/homec/AppData/Roaming/npm/gcc-ranlib15.com"
+      - "C:/Users/homec/AppData/Roaming/npm/gcc-ranlib15.exe"
+      - "C:/Users/homec/AppData/Roaming/npm/gcc-ranlib15"
+      - "C:/NASM/gcc-ranlib15.com"
+      - "C:/NASM/gcc-ranlib15.exe"
+      - "C:/NASM/gcc-ranlib15"
+      - "C:/Program Files/pioasm/gcc-ranlib15.com"
+      - "C:/Program Files/pioasm/gcc-ranlib15.exe"
+      - "C:/Program Files/pioasm/gcc-ranlib15"
+      - "C:/Program Files/Robot Testing Utility/gcc-ranlib15.com"
+      - "C:/Program Files/Robot Testing Utility/gcc-ranlib15.exe"
+      - "C:/Program Files/Robot Testing Utility/gcc-ranlib15"
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/gcc-ranlib.com"
+    found: "C:/Users/homec/scoop/apps/gcc/current/bin/gcc-ranlib.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\MinGW\\bin"
+        - "C:\\Program Files\\Go\\bin"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\"
+        - "C:\\Users\\homec\\scoop\\apps\\maven\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:\\Users\\homec\\scoop\\shims"
+        - "C:\\Users\\homec\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\homec\\go\\bin"
+        - "C:\\Users\\homec\\AppData\\Roaming\\npm"
+        - "C:\\NASM"
+        - "C:\\Program Files\\pioasm"
+        - "C:\\Program Files\\Robot Testing Utility"
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineRCCompiler.cmake:40 (find_program)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/Platform/Windows-GNU.cmake:167 (enable_language)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/Platform/Windows-GNU-CXX.cmake:2 (__windows_compiler_gnu)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeCXXInformation.cmake:48 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_RC_COMPILER"
+    description: "RC compiler"
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "windres"
+      - "windres"
+    candidate_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/Go/bin/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/"
+      - "C:/Users/homec/scoop/apps/maven/current/bin/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/"
+      - "C:/Users/homec/AppData/Local/Programs/Python/Python313/"
+      - "C:/Users/homec/scoop/shims/"
+      - "C:/Users/homec/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/homec/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/homec/go/bin/"
+      - "C:/Users/homec/AppData/Roaming/npm/"
+      - "C:/NASM/"
+      - "C:/Program Files/pioasm/"
+      - "C:/Program Files/Robot Testing Utility/"
+      - "C:/Program Files/bin/"
+      - "C:/Program Files/sbin/"
+      - "C:/Program Files/"
+      - "C:/Program Files (x86)/bin/"
+      - "C:/Program Files (x86)/sbin/"
+      - "C:/Program Files (x86)/"
+      - "C:/Users/homec/scoop/apps/cmake/current/bin/"
+      - "C:/Users/homec/scoop/apps/cmake/current/sbin/"
+      - "C:/Users/homec/scoop/apps/cmake/current/"
+      - "C:/Program Files (x86)/CPP_Language_Implementation/bin/"
+      - "C:/Program Files (x86)/CPP_Language_Implementation/sbin/"
+      - "C:/Program Files (x86)/CPP_Language_Implementation/"
+    searched_directories:
+      - "C:/Users/homec/scoop/apps/gcc/current/bin/windres.com"
+    found: "C:/Users/homec/scoop/apps/gcc/current/bin/windres.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\MinGW\\bin"
+        - "C:\\Program Files\\Go\\bin"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\"
+        - "C:\\Users\\homec\\scoop\\apps\\maven\\current\\bin"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:\\Users\\homec\\scoop\\shims"
+        - "C:\\Users\\homec\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\homec\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\homec\\go\\bin"
+        - "C:\\Users\\homec\\AppData\\Roaming\\npm"
+        - "C:\\NASM"
+        - "C:\\Program Files\\pioasm"
+        - "C:\\Program Files\\Robot Testing Utility"
+        - "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/CPP_Language_Implementation"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Users/homec/scoop/apps/cmake/current"
+        - "C:/Program Files (x86)/CPP_Language_Implementation"
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake:83 (try_compile)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "C:/Coding Projects/CPP_Language_Implementation/build/CMakeFiles/CMakeScratch/TryCompile-hbciu7"
+      binary: "C:/Coding Projects/CPP_Language_Implementation/build/CMakeFiles/CMakeScratch/TryCompile-hbciu7"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: "-g"
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Coding Projects/CPP_Language_Implementation/build/CMakeFiles/CMakeScratch/TryCompile-hbciu7'
+        
+        Run Build Command(s): C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/ninja.exe -v cmTC_f9296
+        [1/2] C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\g++.exe   -v -o CMakeFiles/cmTC_f9296.dir/CMakeCXXCompilerABI.cpp.obj -c C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp
+        Using built-in specs.
+        COLLECT_GCC=C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\g++.exe
+        Target: x86_64-w64-mingw32
+        Configured with: ../src/configure --enable-languages=c,c++ --build=x86_64-w64-mingw32 --host=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --disable-multilib --prefix=/e/temp/gcc/dest --with-sysroot=/e/temp/gcc/dest --disable-libstdcxx-pch --disable-libstdcxx-verbose --disable-nls --disable-shared --disable-win32-registry --enable-threads=posix --enable-libgomp --with-zstd=/c/mingw
+        Thread model: posix
+        Supported LTO compression algorithms: zlib zstd
+        gcc version 15.2.0 (GCC) 
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_f9296.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_f9296.dir/'
+         C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_f9296.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o C:\\Users\\homec\\AppData\\Local\\Temp\\ccOMKT0g.s
+        GNU C++17 (GCC) version 15.2.0 (x86_64-w64-mingw32)
+        	compiled by GNU C version 15.2.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.3.1, isl version isl-0.24-GMP
+        
+        GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+        ignoring duplicate directory "C:/Users/homec/scoop/apps/gcc/15.2.0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0"
+        ignoring duplicate directory "C:/Users/homec/scoop/apps/gcc/15.2.0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0/x86_64-w64-mingw32"
+        ignoring duplicate directory "C:/Users/homec/scoop/apps/gcc/15.2.0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0/backward"
+        ignoring duplicate directory "C:/Users/homec/scoop/apps/gcc/15.2.0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/include"
+        ignoring nonexistent directory "E:/temp/gcc/destE:/temp/gcc/dest/lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include"
+        ignoring duplicate directory "C:/Users/homec/scoop/apps/gcc/15.2.0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed"
+        ignoring duplicate directory "C:/Users/homec/scoop/apps/gcc/15.2.0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include"
+        ignoring nonexistent directory "E:/temp/gcc/dest/mingw/include"
+        #include "..." search starts here:
+        #include <...> search starts here:
+         C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0
+         C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0/x86_64-w64-mingw32
+         C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0/backward
+         C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include
+         C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed
+         C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include
+        End of search list.
+        Compiler executable checksum: 419cf508db631aa0badfb24fe07aa4e5
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_f9296.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_f9296.dir/'
+         C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_f9296.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\homec\\AppData\\Local\\Temp\\ccOMKT0g.s
+        GNU assembler version 2.45.1 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.45.1
+        COMPILER_PATH=C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/;C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../libexec/gcc/;C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
+        LIBRARY_PATH=C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/;C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_f9296.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_f9296.dir/CMakeCXXCompilerABI.cpp.'
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\g++.exe  -v -Wl,-v CMakeFiles/cmTC_f9296.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_f9296.exe -Wl,--out-implib,libcmTC_f9296.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
+        Using built-in specs.
+        COLLECT_GCC=C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\g++.exe
+        COLLECT_LTO_WRAPPER=C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe
+        Target: x86_64-w64-mingw32
+        Configured with: ../src/configure --enable-languages=c,c++ --build=x86_64-w64-mingw32 --host=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --disable-multilib --prefix=/e/temp/gcc/dest --with-sysroot=/e/temp/gcc/dest --disable-libstdcxx-pch --disable-libstdcxx-verbose --disable-nls --disable-shared --disable-win32-registry --enable-threads=posix --enable-libgomp --with-zstd=/c/mingw
+        Thread model: posix
+        Supported LTO compression algorithms: zlib zstd
+        gcc version 15.2.0 (GCC) 
+        COMPILER_PATH=C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/;C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../libexec/gcc/;C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
+        LIBRARY_PATH=C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/;C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f9296.exe' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_f9296.'
+         C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\homec\\AppData\\Local\\Temp\\ccATSHyn.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=E:/temp/gcc/dest -m i386pep -Bdynamic -o cmTC_f9296.exe C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc -LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_f9296.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_f9296.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
+        collect2 version 15.2.0
+        C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\homec\\AppData\\Local\\Temp\\ccATSHyn.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=E:/temp/gcc/dest -m i386pep -Bdynamic -o cmTC_f9296.exe C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc -LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_f9296.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_f9296.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
+        GNU ld (GNU Binutils) 2.45.1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f9296.exe' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_f9296.'
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake:217 (message)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed CXX implicit include dir info: rv=done
+        found start of include info
+        found start of implicit include info
+          add: [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0]
+          add: [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0/x86_64-w64-mingw32]
+          add: [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0/backward]
+          add: [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include]
+          add: [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed]
+          add: [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include]
+        end of search list found
+        collapse include dir [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0] ==> [C:/Users/homec/scoop/apps/gcc/15.2.0/include/c++/15.2.0]
+        collapse include dir [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0/x86_64-w64-mingw32] ==> [C:/Users/homec/scoop/apps/gcc/15.2.0/include/c++/15.2.0/x86_64-w64-mingw32]
+        collapse include dir [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0/backward] ==> [C:/Users/homec/scoop/apps/gcc/15.2.0/include/c++/15.2.0/backward]
+        collapse include dir [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include] ==> [C:/Users/homec/scoop/apps/gcc/15.2.0/lib/gcc/x86_64-w64-mingw32/15.2.0/include]
+        collapse include dir [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed] ==> [C:/Users/homec/scoop/apps/gcc/15.2.0/lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed]
+        collapse include dir [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include] ==> [C:/Users/homec/scoop/apps/gcc/15.2.0/x86_64-w64-mingw32/include]
+        implicit include dirs: [C:/Users/homec/scoop/apps/gcc/15.2.0/include/c++/15.2.0;C:/Users/homec/scoop/apps/gcc/15.2.0/include/c++/15.2.0/x86_64-w64-mingw32;C:/Users/homec/scoop/apps/gcc/15.2.0/include/c++/15.2.0/backward;C:/Users/homec/scoop/apps/gcc/15.2.0/lib/gcc/x86_64-w64-mingw32/15.2.0/include;C:/Users/homec/scoop/apps/gcc/15.2.0/lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed;C:/Users/homec/scoop/apps/gcc/15.2.0/x86_64-w64-mingw32/include]
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake:253 (message)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
+        ignore line: [Change Dir: 'C:/Coding Projects/CPP_Language_Implementation/build/CMakeFiles/CMakeScratch/TryCompile-hbciu7']
+        ignore line: []
+        ignore line: [Run Build Command(s): C:/Users/homec/AppData/Local/Programs/Python/Python313/Scripts/ninja.exe -v cmTC_f9296]
+        ignore line: [[1/2] C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\g++.exe   -v -o CMakeFiles/cmTC_f9296.dir/CMakeCXXCompilerABI.cpp.obj -c C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [Using built-in specs.]
+        ignore line: [COLLECT_GCC=C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\g++.exe]
+        ignore line: [Target: x86_64-w64-mingw32]
+        ignore line: [Configured with: ../src/configure --enable-languages=c c++ --build=x86_64-w64-mingw32 --host=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --disable-multilib --prefix=/e/temp/gcc/dest --with-sysroot=/e/temp/gcc/dest --disable-libstdcxx-pch --disable-libstdcxx-verbose --disable-nls --disable-shared --disable-win32-registry --enable-threads=posix --enable-libgomp --with-zstd=/c/mingw]
+        ignore line: [Thread model: posix]
+        ignore line: [Supported LTO compression algorithms: zlib zstd]
+        ignore line: [gcc version 15.2.0 (GCC) ]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_f9296.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_f9296.dir/']
+        ignore line: [ C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_f9296.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o C:\\Users\\homec\\AppData\\Local\\Temp\\ccOMKT0g.s]
+        ignore line: [GNU C++17 (GCC) version 15.2.0 (x86_64-w64-mingw32)]
+        ignore line: [	compiled by GNU C version 15.2.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.3.1  isl version isl-0.24-GMP]
+        ignore line: []
+        ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+        ignore line: [ignoring duplicate directory "C:/Users/homec/scoop/apps/gcc/15.2.0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0"]
+        ignore line: [ignoring duplicate directory "C:/Users/homec/scoop/apps/gcc/15.2.0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0/x86_64-w64-mingw32"]
+        ignore line: [ignoring duplicate directory "C:/Users/homec/scoop/apps/gcc/15.2.0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0/backward"]
+        ignore line: [ignoring duplicate directory "C:/Users/homec/scoop/apps/gcc/15.2.0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/include"]
+        ignore line: [ignoring nonexistent directory "E:/temp/gcc/destE:/temp/gcc/dest/lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include"]
+        ignore line: [ignoring duplicate directory "C:/Users/homec/scoop/apps/gcc/15.2.0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed"]
+        ignore line: [ignoring duplicate directory "C:/Users/homec/scoop/apps/gcc/15.2.0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include"]
+        ignore line: [ignoring nonexistent directory "E:/temp/gcc/dest/mingw/include"]
+        ignore line: [#include "..." search starts here:]
+        ignore line: [#include <...> search starts here:]
+        ignore line: [ C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0]
+        ignore line: [ C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0/x86_64-w64-mingw32]
+        ignore line: [ C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0/backward]
+        ignore line: [ C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include]
+        ignore line: [ C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed]
+        ignore line: [ C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include]
+        ignore line: [End of search list.]
+        ignore line: [Compiler executable checksum: 419cf508db631aa0badfb24fe07aa4e5]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_f9296.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_f9296.dir/']
+        ignore line: [ C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_f9296.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\homec\\AppData\\Local\\Temp\\ccOMKT0g.s]
+        ignore line: [GNU assembler version 2.45.1 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.45.1]
+        ignore line: [COMPILER_PATH=C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/]
+        ignore line: [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../libexec/gcc/]
+        ignore line: [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/]
+        ignore line: [LIBRARY_PATH=C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/]
+        ignore line: [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/]
+        ignore line: [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/]
+        ignore line: [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
+        ignore line: [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
+        ignore line: [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_f9296.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_f9296.dir/CMakeCXXCompilerABI.cpp.']
+        ignore line: [[2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\g++.exe  -v -Wl -v CMakeFiles/cmTC_f9296.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_f9296.exe -Wl --out-implib libcmTC_f9296.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
+        ignore line: [Using built-in specs.]
+        ignore line: [COLLECT_GCC=C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\g++.exe]
+        ignore line: [COLLECT_LTO_WRAPPER=C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe]
+        ignore line: [Target: x86_64-w64-mingw32]
+        ignore line: [Configured with: ../src/configure --enable-languages=c c++ --build=x86_64-w64-mingw32 --host=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --disable-multilib --prefix=/e/temp/gcc/dest --with-sysroot=/e/temp/gcc/dest --disable-libstdcxx-pch --disable-libstdcxx-verbose --disable-nls --disable-shared --disable-win32-registry --enable-threads=posix --enable-libgomp --with-zstd=/c/mingw]
+        ignore line: [Thread model: posix]
+        ignore line: [Supported LTO compression algorithms: zlib zstd]
+        ignore line: [gcc version 15.2.0 (GCC) ]
+        ignore line: [COMPILER_PATH=C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/]
+        ignore line: [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../libexec/gcc/]
+        ignore line: [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/]
+        ignore line: [LIBRARY_PATH=C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/]
+        ignore line: [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/]
+        ignore line: [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/]
+        ignore line: [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
+        ignore line: [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
+        ignore line: [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f9296.exe' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_f9296.']
+        link line: [ C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\homec\\AppData\\Local\\Temp\\ccATSHyn.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=E:/temp/gcc/dest -m i386pep -Bdynamic -o cmTC_f9296.exe C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc -LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_f9296.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_f9296.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+          arg [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe] ==> ignore
+          arg [-plugin] ==> ignore
+          arg [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll] ==> ignore
+          arg [-plugin-opt=C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\homec\\AppData\\Local\\Temp\\ccATSHyn.res] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingwex] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmsvcrt] ==> ignore
+          arg [-plugin-opt=-pass-through=-lkernel32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lpthread] ==> ignore
+          arg [-plugin-opt=-pass-through=-ladvapi32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lshell32] ==> ignore
+          arg [-plugin-opt=-pass-through=-luser32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lkernel32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingwex] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmsvcrt] ==> ignore
+          arg [-plugin-opt=-pass-through=-lkernel32] ==> ignore
+          arg [--sysroot=E:/temp/gcc/dest] ==> ignore
+          arg [-m] ==> ignore
+          arg [i386pep] ==> ignore
+          arg [-Bdynamic] ==> search dynamic
+          arg [-o] ==> ignore
+          arg [cmTC_f9296.exe] ==> ignore
+          arg [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> obj [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o]
+          arg [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o] ==> obj [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o]
+          arg [-LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0] ==> dir [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0]
+          arg [-LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc] ==> dir [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc]
+          arg [-LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib] ==> dir [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib]
+          arg [-LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib] ==> dir [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib]
+          arg [-LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib] ==> dir [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib]
+          arg [-LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..] ==> dir [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..]
+          arg [-v] ==> ignore
+          arg [CMakeFiles/cmTC_f9296.dir/CMakeCXXCompilerABI.cpp.obj] ==> ignore
+          arg [--out-implib] ==> ignore
+          arg [libcmTC_f9296.dll.a] ==> ignore
+          arg [--major-image-version] ==> ignore
+          arg [0] ==> ignore
+          arg [--minor-image-version] ==> ignore
+          arg [0] ==> ignore
+          arg [-lstdc++] ==> lib [stdc++]
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [-lgcc] ==> lib [gcc]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lmsvcrt] ==> lib [msvcrt]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [-lpthread] ==> lib [pthread]
+          arg [-ladvapi32] ==> lib [advapi32]
+          arg [-lshell32] ==> lib [shell32]
+          arg [-luser32] ==> lib [user32]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [-lgcc] ==> lib [gcc]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lmsvcrt] ==> lib [msvcrt]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o] ==> obj [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        ignore line: [collect2 version 15.2.0]
+        ignore line: [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\homec\\AppData\\Local\\Temp\\ccATSHyn.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=E:/temp/gcc/dest -m i386pep -Bdynamic -o cmTC_f9296.exe C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc -LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_f9296.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_f9296.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        linker tool for 'CXX': C:/Users/homec/scoop/apps/gcc/15.2.0/x86_64-w64-mingw32/bin/ld.exe
+        remove lib [msvcrt]
+        remove lib [msvcrt]
+        collapse obj [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> [C:/Users/homec/scoop/apps/gcc/15.2.0/x86_64-w64-mingw32/lib/crt2.o]
+        collapse obj [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o] ==> [C:/Users/homec/scoop/apps/gcc/15.2.0/lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o]
+        collapse obj [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o] ==> [C:/Users/homec/scoop/apps/gcc/15.2.0/lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        collapse library dir [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0] ==> [C:/Users/homec/scoop/apps/gcc/15.2.0/lib/gcc/x86_64-w64-mingw32/15.2.0]
+        collapse library dir [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc] ==> [C:/Users/homec/scoop/apps/gcc/15.2.0/lib/gcc]
+        collapse library dir [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib] ==> [C:/Users/homec/scoop/apps/gcc/15.2.0/x86_64-w64-mingw32/lib]
+        collapse library dir [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib] ==> [C:/Users/homec/scoop/apps/gcc/15.2.0/lib]
+        collapse library dir [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib] ==> [C:/Users/homec/scoop/apps/gcc/15.2.0/x86_64-w64-mingw32/lib]
+        collapse library dir [C:/Users/homec/scoop/apps/gcc/15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..] ==> [C:/Users/homec/scoop/apps/gcc/15.2.0/lib]
+        implicit libs: [stdc++;mingw32;gcc;mingwex;kernel32;pthread;advapi32;shell32;user32;kernel32;mingw32;gcc;mingwex;kernel32]
+        implicit objs: [C:/Users/homec/scoop/apps/gcc/15.2.0/x86_64-w64-mingw32/lib/crt2.o;C:/Users/homec/scoop/apps/gcc/15.2.0/lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o;C:/Users/homec/scoop/apps/gcc/15.2.0/lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        implicit dirs: [C:/Users/homec/scoop/apps/gcc/15.2.0/lib/gcc/x86_64-w64-mingw32/15.2.0;C:/Users/homec/scoop/apps/gcc/15.2.0/lib/gcc;C:/Users/homec/scoop/apps/gcc/15.2.0/x86_64-w64-mingw32/lib;C:/Users/homec/scoop/apps/gcc/15.2.0/lib]
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/Internal/CMakeDetermineLinkerId.cmake:36 (message)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake:299 (cmake_determine_linker_id)"
+      - "C:/Users/homec/scoop/apps/cmake/current/share/cmake-4.1/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Running the CXX compiler's linker: "C:/Users/homec/scoop/apps/gcc/15.2.0/x86_64-w64-mingw32/bin/ld.exe" "-v"
+      GNU ld (GNU Binutils) 2.45.1
+...

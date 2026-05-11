@@ -1,0 +1,56 @@
+[
+{
+  "directory": "C:/Coding Projects/CPP_Language_Implementation/build",
+  "command": "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\g++.exe -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/ds\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/io\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/io/objects\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/tokenizer\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/utility\" -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\alpl.dir\\main.cpp.obj -c \"C:\\Coding Projects\\CPP_Language_Implementation\\main.cpp\"",
+  "file": "C:/Coding Projects/CPP_Language_Implementation/main.cpp",
+  "output": "C:/Coding Projects/CPP_Language_Implementation/build/CMakeFiles/alpl.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Coding Projects/CPP_Language_Implementation/build",
+  "command": "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\g++.exe -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/ds\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/io\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/io/objects\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/tokenizer\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/utility\" -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\alpl.dir\\lang_files\\interpreter.cpp.obj -c \"C:\\Coding Projects\\CPP_Language_Implementation\\lang_files\\interpreter.cpp\"",
+  "file": "C:/Coding Projects/CPP_Language_Implementation/lang_files/interpreter.cpp",
+  "output": "C:/Coding Projects/CPP_Language_Implementation/build/CMakeFiles/alpl.dir/lang_files/interpreter.cpp.obj"
+},
+{
+  "directory": "C:/Coding Projects/CPP_Language_Implementation/build",
+  "command": "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\g++.exe -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/ds\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/io\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/io/objects\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/tokenizer\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/utility\" -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\alpl.dir\\lang_files\\interpreter_instructions_implementation.cpp.obj -c \"C:\\Coding Projects\\CPP_Language_Implementation\\lang_files\\interpreter_instructions_implementation.cpp\"",
+  "file": "C:/Coding Projects/CPP_Language_Implementation/lang_files/interpreter_instructions_implementation.cpp",
+  "output": "C:/Coding Projects/CPP_Language_Implementation/build/CMakeFiles/alpl.dir/lang_files/interpreter_instructions_implementation.cpp.obj"
+},
+{
+  "directory": "C:/Coding Projects/CPP_Language_Implementation/build",
+  "command": "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\g++.exe -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/ds\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/io\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/io/objects\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/tokenizer\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/utility\" -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\alpl.dir\\lang_files\\space_allocator.cpp.obj -c \"C:\\Coding Projects\\CPP_Language_Implementation\\lang_files\\space_allocator.cpp\"",
+  "file": "C:/Coding Projects/CPP_Language_Implementation/lang_files/space_allocator.cpp",
+  "output": "C:/Coding Projects/CPP_Language_Implementation/build/CMakeFiles/alpl.dir/lang_files/space_allocator.cpp.obj"
+},
+{
+  "directory": "C:/Coding Projects/CPP_Language_Implementation/build",
+  "command": "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\g++.exe -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/ds\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/io\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/io/objects\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/tokenizer\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/utility\" -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\alpl.dir\\lang_files\\io\\code_buffer.cpp.obj -c \"C:\\Coding Projects\\CPP_Language_Implementation\\lang_files\\io\\code_buffer.cpp\"",
+  "file": "C:/Coding Projects/CPP_Language_Implementation/lang_files/io/code_buffer.cpp",
+  "output": "C:/Coding Projects/CPP_Language_Implementation/build/CMakeFiles/alpl.dir/lang_files/io/code_buffer.cpp.obj"
+},
+{
+  "directory": "C:/Coding Projects/CPP_Language_Implementation/build",
+  "command": "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\g++.exe -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/ds\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/io\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/io/objects\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/tokenizer\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/utility\" -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\alpl.dir\\lang_files\\tokenizer\\word_factory.cpp.obj -c \"C:\\Coding Projects\\CPP_Language_Implementation\\lang_files\\tokenizer\\word_factory.cpp\"",
+  "file": "C:/Coding Projects/CPP_Language_Implementation/lang_files/tokenizer/word_factory.cpp",
+  "output": "C:/Coding Projects/CPP_Language_Implementation/build/CMakeFiles/alpl.dir/lang_files/tokenizer/word_factory.cpp.obj"
+},
+{
+  "directory": "C:/Coding Projects/CPP_Language_Implementation/build",
+  "command": "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\g++.exe -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/ds\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/io\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/io/objects\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/tokenizer\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/utility\" -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\alpl.dir\\lang_files\\objects\\variable.cpp.obj -c \"C:\\Coding Projects\\CPP_Language_Implementation\\lang_files\\objects\\variable.cpp\"",
+  "file": "C:/Coding Projects/CPP_Language_Implementation/lang_files/objects/variable.cpp",
+  "output": "C:/Coding Projects/CPP_Language_Implementation/build/CMakeFiles/alpl.dir/lang_files/objects/variable.cpp.obj"
+},
+{
+  "directory": "C:/Coding Projects/CPP_Language_Implementation/build",
+  "command": "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\g++.exe -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/ds\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/io\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/io/objects\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/tokenizer\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/utility\" -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\alpl.dir\\lang_files\\utility\\type_converter.cpp.obj -c \"C:\\Coding Projects\\CPP_Language_Implementation\\lang_files\\utility\\type_converter.cpp\"",
+  "file": "C:/Coding Projects/CPP_Language_Implementation/lang_files/utility/type_converter.cpp",
+  "output": "C:/Coding Projects/CPP_Language_Implementation/build/CMakeFiles/alpl.dir/lang_files/utility/type_converter.cpp.obj"
+},
+{
+  "directory": "C:/Coding Projects/CPP_Language_Implementation/build",
+  "command": "C:\\Users\\homec\\scoop\\apps\\gcc\\current\\bin\\g++.exe -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/ds\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/io\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/io/objects\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/tokenizer\" -I\"C:/Coding Projects/CPP_Language_Implementation/lang_files/utility\" -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\alpl.dir\\lang_files\\utility\\logging.cpp.obj -c \"C:\\Coding Projects\\CPP_Language_Implementation\\lang_files\\utility\\logging.cpp\"",
+  "file": "C:/Coding Projects/CPP_Language_Implementation/lang_files/utility/logging.cpp",
+  "output": "C:/Coding Projects/CPP_Language_Implementation/build/CMakeFiles/alpl.dir/lang_files/utility/logging.cpp.obj"
+}
+]
